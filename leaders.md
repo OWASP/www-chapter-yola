@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sa'ad Ahmad Sa'ad](mailto:saad.ahmad@owasp.org)
+* [Hussaini Aminu Suleiman](mailto:hussaini.suleiman@owasp.org)
