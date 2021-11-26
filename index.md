@@ -27,7 +27,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Welcome to the OWASP Lagos chapter under the leadership of Temitope Odemo, Akinlawon Fayoku and Ayokunle Olaniyi.
+Welcome to the OWASP Lagos chapter under the leadership of Sa'ad Ahmad Sa'ad and Hussaini Aminu Suleiman.
 
 Yola, meaning 'Great Plain' or 'Vast Plain Land', is the largest city, capital city and administrative center of Adamawa State, Nigeria. Located on the Benue River, it has a population of 336,648. Yola is split into two parts.The old town of Yola where the Lamido resides is the traditional city but the new city of Jimeta (about 5 km NW) is the administrative and commercial centre. Generally the term Yola is now used to mean both.
 
