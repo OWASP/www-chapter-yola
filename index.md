@@ -27,7 +27,15 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Welcome to the OWASP Lagos chapter under the leadership of Temitope Odemo, Akinlawon Fayoku and Ayokunle Olaniyi.
+
+Yola, meaning 'Great Plain' or 'Vast Plain Land', is the largest city, capital city and administrative center of Adamawa State, Nigeria. Located on the Benue River, it has a population of 336,648. Yola is split into two parts.The old town of Yola where the Lamido resides is the traditional city but the new city of Jimeta (about 5 km NW) is the administrative and commercial centre. Generally the term Yola is now used to mean both.
+
+To the north are the Mandara Mountains and to the south are the Shebshi Mountains with Dimlang (Vogel) Peak the second highest point (2,042 m) in Nigeria after Chappal Waddi (mountain of death).
+
+Yola is an access point to the Gashaka Gumpti Nature Reserve, which is the largest national park in Nigeria, the Ngel Nyaki montane forest reserve, the Mambilla Plateau, the Sukur UNESCO World heritage site, which is Africa's first cultural landscape to receive World Heritage List inscription,[3] the Yadin Waterfalls, the Kiri Dam on the Gongola River, the Benue national park in nearby Cameroon, the Waza National Park, and the Cameroonian town of Garoua, which lies across the border, on the Benue river.
+
+Our mission and main priority is to create Cyber Security Awareness and build a community with Secure Web Applications. We invite you to be part of this community project.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
