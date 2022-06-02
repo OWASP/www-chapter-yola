@@ -8,9 +8,6 @@ Napoleon Bonaparte: Take time to deliberate, but when the time for action arrive
 * [Meetup](https://www.meetup.com/owasp-yola-chapter/)
 * [Email](saad.ahmad@owasp.org)
 * [WhatsApp](https://chat.whatsapp.com/HY478Tt78ak0GBRz1daB78)
-* [Twitter](Loading)
-* [LinkIn](Loading)
-* [Facebook](Loading)
-* [Instagram](Loading)
+
 
 
