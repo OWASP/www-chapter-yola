@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Yola
 tags: example-tag
 region: Africa
+country: Nigeria
 meetup-group: owasp-yola-chapter
 
 ---
