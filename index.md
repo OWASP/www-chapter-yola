@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWW Yola
+title: OWASP Yola
 tags: example-tag
 region: Africa
 country: Nigeria
@@ -9,7 +9,7 @@ meetup-group: oww-yola-chapter
 
 ---
 ## Welcome
-Welcome to the OWW Yola chapter under the leadership of Sa'ad Ahmad Sa'ad and Hussaini Aminu Suleiman.
+Welcome to the OWASP Yola chapter under the leadership of Sa'ad Ahmad Sa'ad and Hussaini Aminu Suleiman.
 
 Yola, meaning 'Great Plain' or 'Vast Plain Land', is the largest city, capital city and administrative center of Adamawa State, Nigeria. Located on the Benue River, it has a population of 336,648. Yola is split into two parts.The old town of Yola where the Lamido resides is the traditional city but the new city of Jimeta (about 5 km NW) is the administrative and commercial centre. Generally the term Yola is now used to mean both.
 
@@ -20,8 +20,7 @@ Yola is an access point to the Gashaka Gumpti Nature Reserve, which is the large
 Our mission and main priority is to create Cyber Security Awareness and build a community with Secure Web Applications. We invite you to be part of this community project.
 
 ## Participation
-The Open World Wide (OWW
-) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
