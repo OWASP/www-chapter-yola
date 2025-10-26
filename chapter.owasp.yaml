@@ -1,0 +1,24 @@
+leaders:
+  - name: Sa'ad Ahmad Sa'ad
+    email: saad.ahmad@owasp.org
+    github: meetsaad
+  - name: Hussaini Aminu Suleiman
+    email: hussaini.suleiman@owasp.org
+location:
+  country: Nigeria
+  country_code: NG
+  region: Adamawa State
+  city: Yola
+  latitude: 9.2089255
+  longitude: 12.4802485
+meetup_group: oww-yola-chapter
+name: OWASP Yola
+repositories:
+  - name: www-chapter-yola
+    url: https://github.com/OWASP/www-chapter-yola
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-yola
